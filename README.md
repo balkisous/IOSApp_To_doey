@@ -21,10 +21,13 @@ A todolist app to keep track of all your tasks.
 ## Installation
 
 ```
-~ git clone https://github.com/balkisous/IOS_App-ToDoey.git && cd IOS_App-ToDoey
-~ pod install
-~ open YourProjectName.xcworkspace
+git clone https://github.com/balkisous/IOS_App-ToDoey.git && cd IOS_App-ToDoey
+pod install
+open YourProjectName.xcworkspace
 ```
+## Excepted View 👀
+https://github.com/balkisous/IOS_App-ToDoey/assets/76943138/39bac789-be17-4b9c-8ab9-527e70b9c687
+
 
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
