@@ -1,0 +1,29 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+/.build/
+Packages
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Various settings and files
+.DS_Store
+.userdat
+
+# Generated from App Store Connect
+*.ipa
+*.xcarchive
