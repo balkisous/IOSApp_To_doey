@@ -23,8 +23,9 @@ A todolist app to keep track of all your tasks.
 ```
 git clone https://github.com/balkisous/IOS_App-ToDoey.git && cd IOS_App-ToDoey
 pod install
-open YourProjectName.xcworkspace
+open Todoey.xcworkspace
 ```
+
 ## Excepted View 👀
 https://github.com/balkisous/IOS_App-ToDoey/assets/76943138/39bac789-be17-4b9c-8ab9-527e70b9c687
 
