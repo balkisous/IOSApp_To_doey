@@ -26,6 +26,13 @@ pod install
 open Todoey.xcworkspace
 ```
 
+## Help 🛟
+I got this problem 
+```
+File not found: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+```
+here a link to solve it -> https://medium.com/@alpayguroglu/missing-file-libarclite-iphoneos-a-xcode-14-3-issue-solution-629609ddefdf
+
 ## Excepted View 👀
 https://github.com/balkisous/IOS_App-ToDoey/assets/76943138/39bac789-be17-4b9c-8ab9-527e70b9c687
 
